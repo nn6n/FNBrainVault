@@ -10,6 +10,6 @@ mermaid-markdown>=0.1.1  # For documentation diagrams
 pytest>=7.0.0  # For testing
 flake8>=4.0.0  # For linting
 mypy>=1.0.0  # For type checking
-black>=22.0.0  # For code formatting
+black>=24.3.0  # For code formatting
 keyboard
 tk>=8.6  # For GUI components
